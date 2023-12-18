@@ -166,3 +166,7 @@ Pertimbangan untuk menggunakan metode default dalam interface harus dilakukan de
    - Penambahan metode default dapat mempengaruhi kelas-kelas yang sudah ada yang mengimplementasikan interface tersebut. Pastikan bahwa perubahan ini tidak merusak kode yang sudah ada.
 
 Dalam beberapa kasus, menggunakan metode default mungkin terlihat tidak perlu dan dapat menambah kompleksitas. Jadi, keputusan untuk menggunakan atau tidak menggunakan metode default sebaiknya didasarkan pada situasi dan kebutuhan spesifik proyek atau desain sistem. Terkadang, pendekatan yang lebih tradisional dengan hanya menggunakan metode abstrak dan kelas konkrit dapat lebih mudah dipahami dan dikelola.
+
+## Note
+
+Buat contekan aja biar gak lupa.
